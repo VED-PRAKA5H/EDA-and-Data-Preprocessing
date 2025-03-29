@@ -1,0 +1,15 @@
+Day,Coffee Type,new_price,Units Sold,collection,Date,Year,Month
+Monday, Espresso,5,25,125,2023-01-01,2023,1
+Monday, Latte,3,15,45,2023-01-02,2023,1
+Tuesday, Espresso,5,30,150,2023-01-03,2023,1
+Tuesday, Latte,3,20,60,2023-01-04,2023,1
+Wednesday, Espresso,5,35,175,2023-01-05,2023,1
+Wednesday, Latte,3,25,75,2023-01-06,2023,1
+Thursday, Espresso,5,40,200,2023-01-07,2023,1
+Thursday, Latte,3,30,90,2023-01-08,2023,1
+Friday, Espresso,5,45,225,2023-01-09,2023,1
+Friday, Latte,3,35,105,2023-01-10,2023,1
+Saturday, Espresso,5,45,225,2023-01-11,2023,1
+Saturday, Latte,3,35,105,2023-01-12,2023,1
+Sunday, Espresso,5,45,225,2023-01-13,2023,1
+Sunday, Latte,3,35,105,2023-01-14,2023,1
